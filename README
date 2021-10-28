@@ -41,3 +41,11 @@ Chemical reaction engineering is important for determining the reactor size, rea
 Name - Chemical reaction engineering.
 Author - Octave Levenspiel.
 
+ Process system analysis and Control
+
+Now a days every industry is automated, automated in the sense you can monitor the chemical plant from a distributed control system in a control room. In the Process system analysis and control book the author has described how a signal (pressure, temperature, flow etc.,) can be sent to the controller and how the controller functions. This book will give a glimpse about Laplace transforms, first order systems, second order systems, open loop ,closed loop transfer functions, control systems, control valves etc., Check out the book for more!
+
+Name - Process system analysis and control.
+
+Author - Donald R. Coughanowr
+
