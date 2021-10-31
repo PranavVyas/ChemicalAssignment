@@ -9,30 +9,40 @@ First book to read in the chemical engineering
 
 
 1. Unit operations of Chemical engineering.
-[x] One of the oldest books from McGraw Hill book house, Unit operations of Chemical engineering can be considered as a bible for Chemical Engineers. This book is widely using in universities as a basic text for Chemical engineering. If you want to learn basics then this book is for you.
-[x] Each section has been framed in a perfect manner for learning step by step. At the end of each chapter you can find lot of problems which will be useful for practice.
+-[x] One of the oldest books from McGraw Hill book house, Unit operations of Chemical engineering can be considered as a bible for Chemical Engineers. This book is widely using in universities as a basic text for Chemical engineering. If you want to learn basics then this book is for you.
+-[x] Each section has been framed in a perfect manner for learning step by step. At the end of each chapter you can find lot of problems which will be useful for practice.
 Name - Unit operations of Chemical engineering.
 Author - Warren Lee McCabe, Julian Smith, Peter Harriot.
 
 
 2. Introduction to Chemical engineering thermodynamics.
-[x] Another productive book from McGraw Hill, Introduction to Chemical Thermodynamics is a comprehensive book that starts from basic concepts and end up with a detail description of real gas behavior, solution thermodynamics. Generally solution thermodynamics, real gas behavior is much useful in Chemical and Process industry. Some of the equations from this book found their place in famous simulators which will give the real time values for a given temperature, pressure data. Problems at the end of each chapter will enhance your thermodynamics knowledge.
+-[x] Another productive book from McGraw Hill, Introduction to Chemical Thermodynamics is a comprehensive book that starts from basic concepts and end up with a detail description of real gas behavior, solution thermodynamics. Generally solution thermodynamics, real gas behavior is much useful in Chemical and Process industry. Some of the equations from this book found their place in famous simulators which will give the real time values for a given temperature, pressure data. Problems at the end of each chapter will enhance your thermodynamics knowledge.
 Name - Introduction to Chemical Engineering thermodynamics.
 Author - Joseph Mauk Smith, Hendrick C. Van Ness, Michael M. Abbott
 
 
 3. Heat Transfer
-[x] Heat transfer is a important operation in every industry (Chemical, Process etc.,) because if you save energy you save money. As a beginner or a engineering professional if you have this book,then you can excel in heat balance calculations, heat exchangers, heat exchanger designs. The data present in this book is of immense value in chemical industry. Every chapter has been explained with clear illustrations. Even it is useful for Mechanical engineers.
+-[x] Heat transfer is a important operation in every industry (Chemical, Process etc.,) because if you save energy you save money. As a beginner or a engineering professional if you have this book,then you can excel in heat balance calculations, heat exchangers, heat exchanger designs. The data present in this book is of immense value in chemical industry. Every chapter has been explained with clear illustrations. Even it is useful for Mechanical engineers.
 Name - Heat Transfer.
 Author - J.P Holman
 
 
 4. Chemical reaction engineering
-[x] Chemical reaction engineering is important for determining the reactor size, reactor type, temperatures and pressures required for the reaction. Reactions kinetics plays a major role in chemical industry, particularly in fertilizer and pharma sector. In this particular book you can learn about half time, conversion rates, first order reactions,second order reactions,batch reactors, continuous stirred tank reactors (CSTR), plug flow reactors (PFR), activation energies, catalyst effect etc.,
+-[x] Chemical reaction engineering is important for determining the reactor size, reactor type, temperatures and pressures required for the reaction. Reactions kinetics plays a major role in chemical industry, particularly in fertilizer and pharma sector. In this particular book you can learn about half time, conversion rates, first order reactions,second order reactions,batch reactors, continuous stirred tank reactors (CSTR), plug flow reactors (PFR), activation energies, catalyst effect etc.,
 Name - Chemical reaction engineering.
 Author - Octave Levenspiel.
 
 5. Process system analysis and Control
-[x] Now a days every industry is automated, automated in the sense you can monitor the chemical plant from a distributed control system in a control room. In the Process system analysis and control book the author has described how a signal (pressure, temperature, flow etc.,) can be sent to the controller and how the controller functions. This book will give a glimpse about Laplace transforms, first order systems, second order systems, open loop ,closed loop transfer functions, control systems, control valves etc., Check out the book for more!
+-[x] Now a days every industry is automated, automated in the sense you can monitor the chemical plant from a distributed control system in a control room. In the Process system analysis and control book the author has described how a signal (pressure, temperature, flow etc.,) can be sent to the controller and how the controller functions. This book will give a glimpse about Laplace transforms, first order systems, second order systems, open loop ,closed loop transfer functions, control systems, control valves etc., Check out the book for more!
 Name - Process system analysis and control.
 Author - Donald R. Coughanowr
+
+6. Process system analysis and Control
+-[x] Now a days every industry is automated, automated in the sense you can monitor the chemical plant from a distributed control system in a control room. In the Process system analysis and control book the author has described how a signal (pressure, temperature, flow etc.,) can be sent to the controller and how the controller functions. This book will give a glimpse about Laplace transforms, first order systems, second order systems, open loop ,closed loop transfer functions, control systems, control valves etc., Check out the book for more!
+Name - Process system analysis and control.
+Author - Donald R. Coughanowr
+
+7. Plant Design and Economics for Chemical Engineers
+-[x] Plant design and economics for a chemical engineers is a very good book on process economics, HAZOP, SWOT analysis, interest calculator, loan repayment, income tax deductions etc., in short it is a non technical book with equal technical importance. You can learn management basics from this book.
+Name - Plant design and economics for Chemical engineers.
+Authors - Max S. Peters, Klaus D. Timmerhaus
